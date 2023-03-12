@@ -18,5 +18,5 @@ int main(){
     {  
         cout<<bin[i];  
     }  
-    cout<<"\n";  
+    cout<<"\n";            
 }
