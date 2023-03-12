@@ -1,17 +1,13 @@
-﻿#include<iostream>
+﻿#include <iostream>
+#include <iomanip>
 using namespace std;
+
 int main()
 {
-    int m, n;
-    while (cin >> m >> n) {
-        int R = 10000;
-        double iR = (m * m) + (n * n);
-        if (iR < R) {
-            cout << "inside\n";
-        }
-        else {
-            cout << "outside\n";
-        }
-    }
-    return 0;
+    int a;
+    float k=0;
+    cin >> a;
+    k = a * 1.6;
+    cout <<  fixed  << setprecision(1) << k << endl;
 }
+
