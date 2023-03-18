@@ -1,2 +1,2 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" 以返回碼 1168 結束。
-LINK : fatal error LNK1168: 無法開啟 C:\Users\user\Desktop\TiasE\Q2\Q2\x64\Debug\Q2.exe 進行寫入
+﻿  Q2.cpp
+  Q2.vcxproj -> C:\Users\user\Desktop\TiasE\Q2\Q2\x64\Debug\Q2.exe
